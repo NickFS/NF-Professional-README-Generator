@@ -23,4 +23,4 @@ Github: [https://github.com/NickFS](https://github.com/NickFS)
 Email: [nickolas.t.foster@gmail.com](nickolas.t.foster@gmail.com)
 
 ## Video Walkthrough
-[!Video Walkthrough] (https://drive.google.com/file/d/1EYE_wiueVar0BqO0bjDQn-NF5LmMeuA7/view)
+https://drive.google.com/file/d/1EYE_wiueVar0BqO0bjDQn-NF5LmMeuA7/view
